@@ -1,0 +1,19 @@
+.para {
+    background-color: rgb(224, 98, 98);
+    font-family: Verdana, sans-serif;
+}
+
+#number2 {
+    color:rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.three {
+    font-size: 24px;    
+}
+
+#number4 {
+    background-color: rgb(50, 238, 50);
+    font-size: 24px;
+    font-weight: bold;
+}
